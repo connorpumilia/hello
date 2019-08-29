@@ -1,5 +1,7 @@
-    *Author: Connor Pumilia
-    *Date: Aug. 29th 2019
+/**Author: Connor Pumilia
+ *Date: Aug. 29th 2019
+ *A simple hello world program in C.
+ */
 
 
 #include <stdlib.h>
